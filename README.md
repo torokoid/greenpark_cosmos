@@ -168,7 +168,6 @@ a.p:hover span {
 <a href="20211003_055.JPG" data-lightbox="abc"><img src="20211003_055.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211003_056.JPG" data-lightbox="abc"><img src="20211003_056.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211003_057.JPG" data-lightbox="abc"><img src="20211003_057.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_058.JPG" data-lightbox="abc"><img src="20211003_058.JPG" alt="サンプル画像" width="900" /></a>
 
 <!--
 </div>
