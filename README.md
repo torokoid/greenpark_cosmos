@@ -131,6 +131,8 @@ a.p:hover span {
 
 
 <h3><span class="white">コスモスはまだ７分咲きだけど、凄い人手でした ！</span></h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<a href="20211003_000.png" data-lightbox="abc"><img src="20211003_000.png" alt="サンプル画像" width="900" /></a>
 <a href="20211003_021.JPG" data-lightbox="abc"><img src="20211003_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211003_022.JPG" data-lightbox="abc"><img src="20211003_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211003_023.JPG" data-lightbox="abc"><img src="20211003_023.JPG" alt="サンプル画像" width="900" /></a>
