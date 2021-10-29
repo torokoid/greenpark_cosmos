@@ -124,7 +124,7 @@ a.p:hover span {
 
 
 
-<h3><span class="white">10月最終の週末、空気も澄んでお花たちも元気、遠くの山々も綺麗に見えていました ！</span></h3>
+<h3><span class="white">10月の最終週末、空気も澄んでお花たちも元気、遠くの山々も綺麗にクッキリ ！</span></h3>
 
 <a href="20211029_002.JPG" data-lightbox="abc"><img src="20211029_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211029_003.JPG" data-lightbox="abc"><img src="20211029_003.JPG" alt="サンプル画像" width="900" /></a>
