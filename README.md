@@ -118,11 +118,11 @@ a.p:hover span {
 <!--今回は未使用
 <p><a href="https://torokoid.github.io/fts_home">Home</a>>同窓会</p>
 —->
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!—-表題の表示、背景黄色、流れ文字の例-->
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年10月29日(金)、秋晴れの青空の下、宝積寺グリーンパークのコスモス !!!</marquee></span></h1>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 <h3><span class="white">10月最終の週末、空気も澄んでお花たちも元気、遠くの山々も綺麗に見えていました ！</span></h3>
 
@@ -177,7 +177,6 @@ a.p:hover span {
 <!--QRコードの表示例-->
 <!--<p align="left"> <img src="QR_mama.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>-->
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h3><span class="white">宇都宮駅から北東に約10km、コスモスはまだ７分咲きだけど、凄い人手でした ！</span></h3>
 
