@@ -157,6 +157,8 @@ a.p:hover span {
 <a href="20211029_037.JPG" data-lightbox="abc"><img src="20211029_037.JPG" alt="サンプル画像" width="900" /></a>
 
 <a href="20211029_045.JPG" data-lightbox="abc"><img src="20211029_045.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="white">無線の移動運用ポイント「羽黒山」もくっきり見えていました ！</span></h3>
 <a href="20211029_046.JPG" data-lightbox="abc"><img src="20211029_046.JPG" alt="サンプル画像" width="900" /></a>
 
 
