@@ -167,7 +167,7 @@ a.p:hover span {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-<!—-表題の表示、背景黄色、流れ文字の例-->
+<!--表題の表示、背景黄色、流れ文字の例-->
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年10月3日(日)、緊急事態宣言解除後、初の週末。宝積寺グリーンパークのコスモス !!!</marquee></span></h1>
 
 <!--
