@@ -120,6 +120,51 @@ a.p:hover span {
 —->
 
 <!—-表題の表示、背景黄色、流れ文字の例-->
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2021年10月29日(金)、秋晴れの青空の下、宝積寺グリーンパークのコスモス !!!</marquee></span></h1>
+
+
+<h3><span class="white">10月最終の週末、空気も澄んでお花たちも元気、遠くの山々も綺麗に見えていました ！</span></h3>
+
+<a href="20211029_002.JPG" data-lightbox="abc"><img src="20211029_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_003.JPG" data-lightbox="abc"><img src="20211029_003.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="20211029_006.JPG" data-lightbox="abc"><img src="20211029_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_007.JPG" data-lightbox="abc"><img src="20211029_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_008.JPG" data-lightbox="abc"><img src="20211029_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_009.JPG" data-lightbox="abc"><img src="20211029_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_010.JPG" data-lightbox="abc"><img src="20211029_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_011.JPG" data-lightbox="abc"><img src="20211029_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_012.JPG" data-lightbox="abc"><img src="20211029_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_013.JPG" data-lightbox="abc"><img src="20211029_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_014.JPG" data-lightbox="abc"><img src="20211029_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_015.JPG" data-lightbox="abc"><img src="20211029_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_016.JPG" data-lightbox="abc"><img src="20211029_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_017.JPG" data-lightbox="abc"><img src="20211029_017.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="20211029_023.JPG" data-lightbox="abc"><img src="20211029_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_024.JPG" data-lightbox="abc"><img src="20211029_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_025.JPG" data-lightbox="abc"><img src="20211029_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_026.JPG" data-lightbox="abc"><img src="20211029_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_027.JPG" data-lightbox="abc"><img src="20211029_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_028.JPG" data-lightbox="abc"><img src="20211029_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_029.JPG" data-lightbox="abc"><img src="20211029_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_030.JPG" data-lightbox="abc"><img src="20211029_030.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_031.JPG" data-lightbox="abc"><img src="20211029_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_032.JPG" data-lightbox="abc"><img src="20211029_032.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="20211029_035.JPG" data-lightbox="abc"><img src="20211029_035.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_036.JPG" data-lightbox="abc"><img src="20211029_036.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_037.JPG" data-lightbox="abc"><img src="20211029_037.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="20211029_045.JPG" data-lightbox="abc"><img src="20211029_045.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211029_046.JPG" data-lightbox="abc"><img src="20211029_046.JPG" alt="サンプル画像" width="900" /></a>
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+<!—-表題の表示、背景黄色、流れ文字の例-->
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年10月3日(日)、緊急事態宣言解除後、初の週末。宝積寺グリーンパークのコスモス !!!</marquee></span></h1>
 
 <!--
