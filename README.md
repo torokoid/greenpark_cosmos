@@ -122,6 +122,7 @@ a.p:hover span {
 <!—-表題の表示、背景黄色、流れ文字の例-->
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年10月29日(金)、秋晴れの青空の下、宝積寺グリーンパークのコスモス !!!</marquee></span></h1>
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h3><span class="white">10月最終の週末、空気も澄んでお花たちも元気、遠くの山々も綺麗に見えていました ！</span></h3>
 
